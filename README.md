@@ -1,5 +1,14 @@
 # Payment Integration Study
 
+## 📊 Visão geral do projeto
+
+![Estruturação e Integração de Pagamentos](Estruturação%20e%20Integração%20de%20Pagamentos%20Stripe.png)
+
+### 📚 Documentação
+
+- [🔄 Fluxo de integração](docs/payment-flow.md)
+- [🧪 Cenários de teste](test-scenarios.md)
+- 
 Estudo de caso baseado em uma experiência prática com estruturação de um ambiente de pagamentos recorrentes utilizando Stripe.
 
 > Este projeto possui finalidade educacional e de portfólio. Nenhuma informação confidencial, credencial, dado bancário, identificação de clientes ou informação interna da empresa é apresentada.
